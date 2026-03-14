@@ -1,0 +1,12 @@
+label,precision,recall,f1,support
+B-bien_phap_chan_doan,0.0,0.0,0.0,0
+B-bien_phap_dieu_tri,0.0,0.0,0.0,0
+B-nguyen_nhan_benh,0.0,0.0,0.0,0
+B-ten_benh,0.0,0.0,0.0,0
+B-trieu_chung_benh,0.0,0.0,0.0,0
+I-bien_phap_chan_doan,0.0,0.0,0.0,0
+I-bien_phap_dieu_tri,0.0,0.0,0.0,0
+I-nguyen_nhan_benh,0.0,0.0,0.0,0
+I-ten_benh,0.0,0.0,0.0,0
+I-trieu_chung_benh,0.0,0.0,0.0,0
+O,0.0,0.0,0.0,0

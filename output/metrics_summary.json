@@ -1,0 +1,88 @@
+{
+  "trainer_metrics": {
+    "test_loss": 2.4621269702911377,
+    "test_classification_report": "                     precision    recall  f1-score   support\n\nbien_phap_chan_doan      0.001     0.016     0.003       308\n bien_phap_dieu_tri      0.004     0.079     0.007       632\n   nguyen_nhan_benh      0.000     0.007     0.000       276\n           ten_benh      0.001     0.002     0.001      1822\n   trieu_chung_benh      0.002     0.024     0.003       712\n\n          micro avg      0.002     0.021     0.003      3750\n          macro avg      0.002     0.026     0.003      3750\n       weighted avg      0.001     0.021     0.002      3750\n",
+    "test_runtime": 92.1618,
+    "test_samples_per_second": 16.547,
+    "test_steps_per_second": 0.521
+  },
+  "per_label": [
+    {
+      "label": "B-bien_phap_chan_doan",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "B-bien_phap_dieu_tri",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "B-nguyen_nhan_benh",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "B-ten_benh",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "B-trieu_chung_benh",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "I-bien_phap_chan_doan",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "I-bien_phap_dieu_tri",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "I-nguyen_nhan_benh",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "I-ten_benh",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "I-trieu_chung_benh",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    {
+      "label": "O",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  ]
+}
